@@ -23,7 +23,7 @@ const CONFIG = {
     reply: 'Vì em là cô gái đáng yêu nhất hệ mặt trời <33333333',
     mess: 'Em biết mà 🥰. Yêu anh nhiều nhiều 😘😘',
     messDesc: '<33333333 .',
-    btnAccept: 'Nhiều tym nữa nè  <333333333333333333333 <3',
+    btnAccept: 'Nhiều tym nữa nè  <3333333333333333333333 <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
 ```
