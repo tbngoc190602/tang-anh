@@ -17,7 +17,7 @@ const CONFIG = {
     title: 'Anh có iu em nhìu nhìu honggg :>>',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Iu em nhìu lắm , hihi <33',
-    btnNo: 'Không yêu đôuuu :3',
+    btnNo: 'Không yêu đôuuu :VV',
     question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu em <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Vì em là cô gái đáng yêu nhất hệ mặt trời <33333333',
